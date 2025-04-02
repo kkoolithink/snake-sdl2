@@ -1,4 +1,7 @@
-# Snake (CURRENTLY HAS MODERATE GRAPHICAL BUG)
+# Snake (CURRENTLY HAS MODERATE GRAPHICAL BUG) (DISCONTINUED)
+<hr>
+<h3>If you want to play a better version of Snake that I made, look at my snake-sdl3 repository.</h3>
+<hr>
 
 <p>This is a basic snake game coded in C using SDL2. I understand that SDL3 exists, but during the time of making this game I did not have access to it. Downloading SDL2 is not required to run this program as the entire library is already inside this project.</p>
 
